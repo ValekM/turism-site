@@ -1,0 +1,110 @@
+.bg {
+	width: 936px;
+	height: 883px;
+	margin: auto;
+	background-image: url(image/bg.jpg);
+	box-shadow: 0 0 10px rgba(0,0,0,0.6);
+}
+
+.container {
+	margin-left: 56px;
+	width: 819px;
+	height: 883px;
+}
+
+
+/* HEADER */
+
+.header {
+	padding-top: 85px;
+}
+
+.logo {
+	width: 263px;
+	height: 37px;
+}
+
+.logo img {
+	width: 263px;
+	height: 37px;
+} 
+
+.logo p {
+	display: inline-block;
+	width: 236px;
+	text-align: center;
+	color: white;
+	font-family: 'Tahoma', sans-serif;
+	font-size: 70%;
+}
+
+.contact-top {
+	margin-top: -30px;
+	margin-right: 20px;
+	width: 100px;
+	float: right;
+}
+
+.contact-top h2 {
+	display: inline-block;
+	width: 100px;
+	text-align: center;
+	color: white;
+	font-family: 'Tahoma', sans-serif;
+	font-size: 85%;
+}
+
+.contact-top p {
+	display: inline-block;
+	width: 100px;
+	text-align: center;
+	color: white;
+	font-family: 'Tahoma', sans-serif;
+	font-size: 70%;
+}
+
+
+/* CONTENT */
+
+.content {
+	width: 100%;
+	padding-top: 46px;
+}
+
+.img1, .img2, .img4, .img5 {
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 60px;
+	width: 260px;
+	height: 178px;
+	border: 3px solid #868686;
+}
+
+.img3, .img6 {
+	float: left;
+	width: 260px;
+	height: 178px;
+	border: 3px solid #868686;
+}
+
+.content figure {
+	text-align: center;
+	color: white;
+	font-family: 'Tahoma', sans-serif;
+	font-size: 80%;
+}
+
+.content img {
+	margin-bottom: 4px;
+}
+
+
+/* FOOTER */
+
+.footer {
+	margin-top: 80%;
+	text-align: center;
+	color: white;
+	font-family: 'Tahoma', sans-serif;
+	font-size: 70%;
+}
